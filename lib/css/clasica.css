@@ -101,6 +101,9 @@ section article fieldset article{
 	padding: 20px 10%;
 	margin: 0px;
 }
+.hidden{
+	display: none;
+}
 #messageModal{
 	z-index: 1;
 	font-style: italic;
@@ -120,6 +123,18 @@ section article fieldset article{
 #messageModal a:hover{
 	color: #333;
 }
+.textNormal{
+	text-align: left;
+	color: #D9D900;
+}
+.textInfo{
+	text-align: left;
+	color: #2693FF;
+}
+.textError{
+	text-align: right;
+	color: #f00;
+}
 .normal{
 	color: #D9D900;
 	background: #FFFFF0;
@@ -130,6 +145,11 @@ section article fieldset article{
 	background: #E6F2FF;
 	border: 1px solid #2693FF;
 }
+.error{
+	color: #f00;
+	background: #fff;
+	border: 1px solid #f00;
+}
 .close{
 	float: right;
 	position: absolute;
@@ -138,4 +158,7 @@ section article fieldset article{
 }
 nav .profile{
 	float: right;
+}
+img{
+	vertical-align: middle;
 }

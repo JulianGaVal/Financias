@@ -5,6 +5,7 @@
 		<script type="text/javascript" src="lib/js/jquery.min.js"></script>
 		<script type="text/javascript" src="lib/js/jquery-ui.js"></script>
 		<script type="text/javascript" src="lib/js/general.js"></script>
+		<script type="text/javascript" src="lib/js/jquery.validate.js"></script>
 		<script type="text/javascript">
 		$(function(){
 			$('.navImg')
@@ -39,7 +40,7 @@
 			<span class="profile">
 				<ul>
 					<li><a href="javascript: alert('Hola Tux Penguin!');">Hola!</a></li>
-					<li><a href="javascript: alert('Tux Penguin');"><img class="navImg" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZQWHH7QR0Ur0-F0Nwfu9xGJHXGZx5_yQ9TtCujpu5CWs09TI8" height="20" title="Tux Penguin" border="0"></a></li>
+					<li><a href="javascript: alert('Tux Penguin');"><img class="navImg" src="files/imgs/pinguinalulu-tux-the-batman-penguin-11703.png" height="20" title="Tux Penguin" border="0"></a></li>
 				</ul>
 			</span>
 		</nav>
