@@ -11,7 +11,7 @@
 					<div><label>Usuario</label><input type="text"></div>
 					<div><label>Clave</label><input type="password"></div>
 					<div><label>Confirma Clave</label><input type="password"></div>
-					<div align="right"><input type="button" value="Registrar!" onClick="$('#messageModal').slideDown();"></div>
+					<div align="right"><input type="button" value="Registrar!" onClick="$('#messageModal').show('blind' , 500 ).delay(5000).hide('blind' , 1000 );"></div>
 				</form>
 			</article>
 		</fieldset>
