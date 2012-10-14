@@ -6,7 +6,7 @@
 		<script type="text/javascript" src="lib/js/general.js"></script>
 	</head>
 	<body>
-		<div id="messageModal" align="center">Loading... <br>asdasdas<br>asdasdas<br>asdasdas<span class="close"><a href="javascript: $('#messageModal').slideUp();">X</a></span></div>
+		<div id="messageModal" align="center">Loading...<span class="close"><a href="javascript: $('#messageModal').slideUp();">X</a></span></div>
 		<section>
 			<nav>
 				<ul>
