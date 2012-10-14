@@ -106,7 +106,7 @@ section article fieldset article{
 	text-decoration: none;
 }
 #messageModal a:hover{
-	color: #fF0;
+	color: #333;
 }
 .close{
 	float: right;
